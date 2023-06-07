@@ -1,5 +1,5 @@
 # プライバシーポリシー
-## アプリケーション名： 「手軽に複利計算」
+## アプリケーション名 「手軽に複利計算」
 
 第三者に個人を特定できる情報を提供することはありません。  
 情報の管理には細心の注意を払い、以下に掲げた通りに扱います。
@@ -27,7 +27,7 @@
 ***
 
 # Privacy Policy
-## Application Name: 「Easy Compound Interest Calc」
+## Application Name 「Easy Compound Interest Calc」
 
 We do not provide personally identifiable information to third parties.  
 We take the utmost care in managing information and treat it as set forth below.
