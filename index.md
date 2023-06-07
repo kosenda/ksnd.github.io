@@ -1,2 +1,2 @@
 # privacy policy
-[CompoundInterestCalculation](./CompoundInterestCalculation.md)
+- [手軽に複利計算 / Easy Compound Interest Calc](./CompoundInterestCalculation.md)
