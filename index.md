@@ -1,2 +1,2 @@
 # privacy policy
-[CompoundInterestCalculation](CompoundInterestCalculation.md)
+[CompoundInterestCalculation](./CompoundInterestCalculation.md)
