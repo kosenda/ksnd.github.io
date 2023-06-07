@@ -17,7 +17,8 @@
 - アプリのクラッシュ解析に使用しています。
 
 #### 上記サービスのプライバシーポリシーは以下となっております。
-[https://policies.google.com/privacy]({{ https://policies.google.com/privacy }})
+[https://policies.google.com/privacy]({{https://policies.google.com/privacy}})
+
 [https://policies.google.com/privacy](/https://policies.google.com/privacy)
 
 ***
