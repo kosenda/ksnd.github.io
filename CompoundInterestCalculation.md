@@ -9,17 +9,20 @@
 
 ### Google AdMob (Google Inc.)
 - 広告配信に利用しています。
+
 ### Google Analytics (Google Inc.)
 - データ解析に使用しています。
+
 ### Firebase Analytics (Google Inc.)
 - データ解析に使用しています。
+
 ### Firebase Crashlytics (Google Inc.)
 - アプリのクラッシュ解析に使用しています。
 
-#### 上記サービスのプライバシーポリシーは以下となっております。
-[https://policies.google.com/privacy]({https://policies.google.com/privacy})
 
-[https://policies.google.com/privacy](/https://policies.google.com/privacy)
+#### 上記サービスのプライバシーポリシーは以下となっております。
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
 
 ***
 
@@ -34,12 +37,17 @@ This application uses the following services.
 
 ### Google AdMob (Google Inc.)
 - We use this service to serve ads.
+
 ### Google Analytics (Google Inc.)
 - We use this service for data analysis.
+
 ### Firebase Analytics (Google Inc.)
 - Used for data analysis.
+
 ### Firebase Crashlytics (Google Inc.) Used for data analysis.
 - Used to analyze app crashes.
 
+
 #### The privacy policy for the above services is as follows
-[https://policies.google.com/privacy](/https://policies.google.com/privacy)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
