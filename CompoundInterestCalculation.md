@@ -17,7 +17,7 @@
 - アプリのクラッシュ解析に使用しています。
 
 #### 上記サービスのプライバシーポリシーは以下となっております。
-[https://policies.google.com/privacy](https://policies.google.com/privacy)
+<a href="https://policies.google.com/privacy"></a>
 
 ***
 
@@ -40,4 +40,4 @@ This application uses the following services.
 - Used to analyze app crashes.
 
 #### The privacy policy for the above services is as follows
-[https://policies.google.com/privacy](https://policies.google.com/privacy)
+<a href="https://policies.google.com/privacy"></a>
